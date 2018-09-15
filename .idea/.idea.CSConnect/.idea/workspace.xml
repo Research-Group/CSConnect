@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="77e62a31-a771-4c98-9cce-b5fcbc875b55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSConnect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSConnect/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CSConnect/DesignTimeBuild/.dtbcache" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CSConnect/DesignTimeBuild/.dtbcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CSConnect/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CSConnect/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CSConnect/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CSConnect/v15/Server/sqlite3/storage.ide" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CSConnect/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CSConnect/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CSConnect/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CSConnect/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSConnect/obj/CSConnect.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSConnect/obj/CSConnect.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSConnect/obj/CSConnect.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CSConnect/obj/CSConnect.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSConnect/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSConnect/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +35,8 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -70,12 +62,14 @@
         <counts>
           <entry key="cs" value="2" />
           <entry key="jsx" value="253" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="2" />
           <entry key="JSX Harmony" value="253" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -104,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/CSConnect/wwwroot/js/test.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -337,11 +331,27 @@
       <workItem from="1537047082742" duration="711000" />
       <workItem from="1537047967075" duration="566000" />
       <workItem from="1537048632691" duration="1635000" />
+      <workItem from="1537050340544" duration="494000" />
     </task>
+    <task id="LOCAL-00001" summary="React Update">
+      <created>1537050548161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537050548161</updated>
+    </task>
+    <task id="LOCAL-00002" summary="React Update">
+      <created>1537050823276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537050823276</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11885000" />
+    <option name="totallyTimeSpent" value="12379000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,7 +365,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.22443376" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.22717914" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.21619767" />
       <window_info id="Favorites" order="2" sideWeight="0.50089765" side_tool="true" weight="0.21619767" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -389,6 +399,10 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="React Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="React Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -486,7 +500,7 @@
     <entry file="file://$PROJECT_DIR$/CSConnect/wwwroot/js/test.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
