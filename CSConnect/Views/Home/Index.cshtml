@@ -1,0 +1,19 @@
+﻿@using React.AspNet
+@{ 
+    ViewBag.Title = "Home";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <link rel="import" href="about">
+</head>
+<body>
+    <div id="content"></div>
+    @Html.React("Hello", new
+    {
+       name = ViewBag.message
+    })
+    <script src="~/js/test.jsx"></script>
+</body>
+</html>
