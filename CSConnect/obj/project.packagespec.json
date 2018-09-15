@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\btgra\\source\\repos\\CSConnect\\CSConnect\\CSConnect.csproj",
+    "projectUniqueName": "C:\\Users\\btgra\\RiderProjects\\CSConnect\\CSConnect\\CSConnect.csproj",
     "projectName": "CSConnect",
-    "projectPath": "C:\\Users\\btgra\\source\\repos\\CSConnect\\CSConnect\\CSConnect.csproj",
-    "outputPath": "C:\\Users\\btgra\\source\\repos\\CSConnect\\CSConnect\\obj\\",
+    "projectPath": "C:\\Users\\btgra\\RiderProjects\\CSConnect\\CSConnect\\CSConnect.csproj",
+    "outputPath": "C:\\Users\\btgra\\RiderProjects\\CSConnect\\CSConnect\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
