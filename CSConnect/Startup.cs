@@ -64,8 +64,8 @@ namespace CSConnect
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
-                    name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    "default",
+                    "{controller=Home}/{action=Index}/{id?}");
             });
 
             // Open the Electron-Window here
@@ -75,7 +75,7 @@ namespace CSConnect
             }
         }
 
-        public async void ElectronBootstrap()
+        private async void ElectronBootstrap()
         {
             var browserWindow = await Electron.WindowManager.CreateWindowAsync(new BrowserWindowOptions
             {
@@ -85,7 +85,7 @@ namespace CSConnect
             });
 
             browserWindow.OnReadyToShow += () => browserWindow.Show();
-            browserWindow.SetTitle("Electron.NET API Demos");
+            browserWindow.SetTitle("CSConnect");
         }
     }
 }

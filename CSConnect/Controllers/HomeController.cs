@@ -6,7 +6,8 @@ namespace CSConnect.Controllers
     {
         public IActionResult Index()
         {
-            ViewBag.message = 25;
+            ViewBag.message = "Hello,";
+            ViewBag.submessage = "Brandon";
             return View();
         }
     }

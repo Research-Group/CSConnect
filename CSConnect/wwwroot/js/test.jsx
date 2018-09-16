@@ -1,7 +1,18 @@
 ﻿class Hello extends React.Component {
     render() {
         return (
-            <h1>{this.props.name}</h1>
+            <div>
+                <h1>{this.props.name}</h1>
+                <p>{this.props.subname}</p>
+            </div>
         );
     }
 }
+
+/*class Avatar extends Component {
+    render() {
+        return (
+            <img src={`${this.props.file}`} />
+        );
+    }
+}*/

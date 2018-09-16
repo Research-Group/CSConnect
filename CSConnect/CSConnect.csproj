@@ -19,4 +19,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\About\Index.cshtml" />
+  </ItemGroup>
 </Project>
