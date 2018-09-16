@@ -16,6 +16,8 @@
         </e>
         <e p="CSConnect.csproj" t="IncludeRecursive" />
         <e p="electron.manifest.json" t="Include" />
+        <e p="gitattributes" t="Include" />
+        <e p="gitignore" t="Include" />
         <e p="Models" t="Include">
           <e p="ErrorViewModel.cs" t="Include" />
         </e>
